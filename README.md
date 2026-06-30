@@ -81,8 +81,3 @@ Sentiment_Analysis/
 - Add support for multi-class sentiment (Positive, Negative, Neutral)
 - Deploy the application on a cloud platform
 - Improve UI/UX of the web interface
-
-## 👤 Author
-
-**Priyanka Kesarkar**
-GitHub: [@Priyanka-Kesarkar-2502](https://github.com/Priyanka-Kesarkar-2502)
