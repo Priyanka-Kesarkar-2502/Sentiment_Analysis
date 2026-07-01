@@ -72,7 +72,3 @@ Sentiment_Analysis/
    http://localhost:5000
    ```
 
-## 🖼️ Screenshot
-
-![Sentiment Analysis](Sentiment%20Analysis.png)
-
