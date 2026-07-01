@@ -4,7 +4,7 @@ import nltk
 import joblib
 import matplotlib.pyplot as plt
 import os
-os.makedirs("model", exist_ok=True)
+os.makedirs("models", exist_ok=True)
 
 from nltk.corpus import stopwords
 

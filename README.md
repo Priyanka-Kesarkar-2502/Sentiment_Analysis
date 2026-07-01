@@ -44,8 +44,8 @@ Sentiment_Analysis/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Priyanka-Kesarkar-2502/Sentiment_Analysis.git
-   cd Sentiment_Analysis
+   git clone https://github.com/Priyanka-Kesarkar-2502/Twitter_Sentiment_Analysis.git
+   cd Twitter_Sentiment_Analysis
    ```
 
 2. **Install the required dependencies**
@@ -71,4 +71,3 @@ Sentiment_Analysis/
    ```
    http://localhost:5000
    ```
-
