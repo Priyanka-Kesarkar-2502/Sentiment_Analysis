@@ -76,8 +76,3 @@ Sentiment_Analysis/
 
 ![Sentiment Analysis](Sentiment%20Analysis.png)
 
-## 🚀 Future Improvements
-
-- Add support for multi-class sentiment (Positive, Negative, Neutral)
-- Deploy the application on a cloud platform
-- Improve UI/UX of the web interface
